@@ -2,6 +2,7 @@ name: Wolf Studio
 favicon: null
 layout_spectrum: 0.38640494365245104
 typography_spectrum: 0.003341205883771181
+title: Wolf Studio
 cta:
   domain: null
   bucket: null
