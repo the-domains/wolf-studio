@@ -1,6 +1,6 @@
 name: Wolf Studio
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.49849
 typography_spectrum: 0.39682
 title: Wolf Studio
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.08159093093127012
-  lightness: 0.75
-  saturation: 0.22197540034539998
-  rhythmicContrast: 0.1246244206558913
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
